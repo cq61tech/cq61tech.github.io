@@ -1,0 +1,16 @@
+Package: com.ilov.mubaszn
+Version: 1.0-3+debug
+Architecture: iphoneos-arm64
+Maintainer: cq61tech
+Installed-Size: 176
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.ilov.mubaszn_1.0-3+debug_iphoneos-arm64.deb
+Size: 4074
+MD5sum: 17406692244a849720d6c58556eeef69
+SHA1: c53d5246e207817240cf8e4ed66192591eba93e9
+SHA256: 93b570f99567345f593dfb416514ab659c12c9c186704312cc12eed73c720602
+Section: Tweaks
+Description: Myriel icin minik bir easter egg!
+Author: cq61tech
+Name: aero
+
