@@ -14,6 +14,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: CQ61TECH
 Name: IHateAT
 
+Package: com.cq61tech.ihateassistivetouch
+Version: 0.0.1-3+debug
+Architecture: iphoneos-arm64
+Maintainer: CQ61TECH
+Installed-Size: 56
+Depends: mobilesubstrate
+Filename: ./com.cq61tech.ihateassistivetouch_0.0.1-3+debug_iphoneos-arm64.deb
+Size: 2686
+MD5sum: 79dc6b328121473b6aa491c0ee1376a8
+SHA1: 9bbf312a22d7f5acd226a077913f34cc708b937b
+SHA256: dd01689a08512600f1dbf5491236a61eb50608fe4933bd84dee336a42c7520c4
+Section: Tweaks
+Description: Assistive Touch'i sonsuza dek yok eden o efsanevi tweak!
+Author: CQ61TECH
+Name: IHateAT
+
 Package: com.ilov.mubaszn
 Version: 1.0-3+debug
 Architecture: iphoneos-arm64
