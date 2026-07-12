@@ -1,14 +1,14 @@
 Package: com.cq61tech.ihateassistivetouch
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm64
 Maintainer: CQ61TECH
 Installed-Size: 56
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
-Filename: ./com.cq61tech.ihateassistivetouch_0.0.1-1+debug_iphoneos-arm.deb
-Size: 2882
-MD5sum: 0b8b1ecf38fd41282e59fd3d9f3c45d8
-SHA1: bfe1b8727e4134431cd9cf5f78fac771a77decb2
-SHA256: 7d3f0173f1f2821daeaad0fee9ab91839a2aa38cabd30016b0e5f6233a38c052
+Filename: ./com.cq61tech.ihateassistivetouch_0.0.1-2+debug_iphoneos-arm64.deb
+Size: 2964
+MD5sum: 4ee674706ad20975964dd11687d2e4c2
+SHA1: 0a4e8439263900dd0f9e5e129e7c1f074157117b
+SHA256: 4f4e367b5fa7ee362c93714dd4ccbc7ca41654dcee4f30bd2c75b443c8b660aa
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: CQ61TECH
