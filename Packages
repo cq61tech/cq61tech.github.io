@@ -1,34 +1,18 @@
-Package: com.cq61tech.ihateassistivetouch
-Version: 0.0.1-2+debug
+Package: com.ilov.mubaszn
+Version: 1.0-3+debug
 Architecture: iphoneos-arm64
-Maintainer: CQ61TECH
-Installed-Size: 56
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
-Filename: ./com.cq61tech.ihateassistivetouch_0.0.1-2+debug_iphoneos-arm64.deb
-Size: 2964
-MD5sum: 4ee674706ad20975964dd11687d2e4c2
-SHA1: 0a4e8439263900dd0f9e5e129e7c1f074157117b
-SHA256: 4f4e367b5fa7ee362c93714dd4ccbc7ca41654dcee4f30bd2c75b443c8b660aa
+Maintainer: cq61tech
+Installed-Size: 176
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./com.ilov.mubaszn_1.0-3+debug_iphoneos-arm64.deb
+Size: 4074
+MD5sum: 17406692244a849720d6c58556eeef69
+SHA1: c53d5246e207817240cf8e4ed66192591eba93e9
+SHA256: 93b570f99567345f593dfb416514ab659c12c9c186704312cc12eed73c720602
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: CQ61TECH
-Name: IHateAT
-
-Package: com.cq61tech.ihateassistivetouch
-Version: 0.0.1-3+debug
-Architecture: iphoneos-arm64
-Maintainer: CQ61TECH
-Installed-Size: 56
-Depends: mobilesubstrate
-Filename: ./com.cq61tech.ihateassistivetouch_0.0.1-3+debug_iphoneos-arm64.deb
-Size: 2686
-MD5sum: 79dc6b328121473b6aa491c0ee1376a8
-SHA1: 9bbf312a22d7f5acd226a077913f34cc708b937b
-SHA256: dd01689a08512600f1dbf5491236a61eb50608fe4933bd84dee336a42c7520c4
-Section: Tweaks
-Description: Assistive Touch'i sonsuza dek yok eden o efsanevi tweak!
-Author: CQ61TECH
-Name: IHateAT
+Description: Myriel icin minik bir easter egg!
+Author: cq61tech
+Name: aero
 
 Package: com.ilov.mubaszn
 Version: 1.0-3+debug
@@ -36,7 +20,7 @@ Architecture: iphoneos-arm64
 Maintainer: cq61tech
 Installed-Size: 176
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.ilov.mubaszn_1.0-3+debug_iphoneos-arm64.deb
+Filename: ./packages/com.ilov.mubaszn_1.0-3+debug_iphoneos-arm64.deb
 Size: 4074
 MD5sum: 17406692244a849720d6c58556eeef69
 SHA1: c53d5246e207817240cf8e4ed66192591eba93e9
