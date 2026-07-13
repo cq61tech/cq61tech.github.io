@@ -78,6 +78,22 @@ Description: Assistive Touch'i sonsuza dek yok eden o efsanevi tweak!
 Author: CQ61TECH
 Name: IHateAT
 
+Package: com.cq61tech.ihateassistivetouch
+Version: 0.0.1-7+debug
+Architecture: iphoneos-arm64
+Maintainer: CQ61TECH
+Installed-Size: 56
+Depends: mobilesubstrate
+Filename: ./com.cq61tech.ihateassistivetouch_0.0.1-7+debug_iphoneos-arm64.deb
+Size: 3606
+MD5sum: c7d11c1cf830c5f14ed6a127f922ca48
+SHA1: 2a57a0f97e722afdf46b1607598ded996622f9d4
+SHA256: 73191ea886e5fffadbd224104c7760e968e3c745ba99b7aa8633d51b3506894a
+Section: Tweaks
+Description: Assistive Touch'i sonsuza dek yok eden o efsanevi tweak!
+Author: CQ61TECH
+Name: IHateAT
+
 Package: com.ilov.mubaszn
 Version: 1.0-3+debug
 Architecture: iphoneos-arm64
