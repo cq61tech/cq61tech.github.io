@@ -126,3 +126,20 @@ Description: Myriel icin minik bir easter egg!
 Author: cq61tech
 Name: aero
 
+Package: com.macciti.classicios
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: iC <apt@macciti.com>
+Depends: com.anemonetheming.anemone
+Filename: ./com.macciti.classicios_1.2_iphoneos-arm.deb
+Size: 8416916
+MD5sum: 96388662f5a9a7312f5639bb0a36cf10
+SHA1: b6c63aef2032340e8d80db7b8acaa5b39e7108ba
+SHA256: 3e2a353d22e8004c50b3f3932f7a1b015d5f904127922b6dc2e41ca8ca2cbef7
+Section: Themes (SpringBoard)
+Description: I miss my iPhone 3GS
+Author: Axel4 <axel.new46@yahoo.com>
+Depiction: http://www.macciti.com/pages/classicios/index.php
+Name: Classic iOS
+Sponsor: MacCiti <http://www.macciti.com/cydia/pages/sponsor.php>
+
