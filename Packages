@@ -287,30 +287,6 @@ Depiction: http://apt.xsellize.com/depic/springtomize2
 Name: Springtomize 2 Thai - iOS 5+
 Sponsor: http://xsellize.com
 
-Package: org.thebigboss.animatelockscreen
-Version: 1.0.1-3
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 532
-Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader, org.chronic-dev.animate
-Conflicts: com.mpow.charbg
-Filename: ./1.deb
-Size: 474966
-MD5sum: 7cee1bd5dcea5d577e3895e9519414ff
-SHA1: 9080edde8d4ba4b6b20a1dd983656fe464d48e50
-SHA256: 25b4e5aba99a6c8e986704f6c209ad24d1dbad01b7ae9f63ed9d7ab47c664428
-Section: Tweaks
-Priority: optional
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=animatelockscreenDp
-Description: enhance the lockscreen with animations
-Tag: purpose::extension, cydia::commercial
-Author: MPow <alexx91@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=animatelockscreenDp
-Dev: alexx91
-Icon: file:///Library/PreferenceBundles/AnimateLockscreen.bundle/animatelockscreen@2x.png
-Name: AnimateLockscreen
-Sponsor: thebigboss.org <http://thebigboss.org>
-
 Package: siriport.ru.siri.original.dev
 Version: 1.0-1
 Architecture: iphoneos-arm
