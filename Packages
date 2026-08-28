@@ -1,3 +1,17 @@
+Package: com.ThePeaShooter.LiquidASS
+Version: v1.0.0
+Architecture: iphoneos-arm
+Maintainer: RetroWeirdos
+Filename: ./com.ThePeaShooter.LiquidASS_v1.0.0_iphoneos-arm.1.deb
+Size: 7341928
+MD5sum: 25c5ab51e63e5ac8f02bfe9c34274f2f
+SHA1: 9b4839baf4c7aac702ce3d5206ce72a1b820d93d
+SHA256: ec7761c312ff9894b0082915519caaca63076cb880caad082762395f05fd6438
+Section: Peatweaks
+Description: Liquid Glass Clear Icons now for IOS 8! (TRASH readability lol, anyways all credits goes to Timbovill, he's the one who created it, while I repackaged it for IOS 8)
+Author: ThePeaShooter
+Name: LiquidASS
+
 Package: com.cq61tech.ihateassistivetouch
 Version: 0.0.1-2+debug
 Architecture: iphoneos-arm64
@@ -94,21 +108,23 @@ Description: Assistive Touch'i sonsuza dek yok eden o efsanevi tweak!
 Author: CQ61TECH
 Name: IHateAT
 
-Package: com.ilov.mubaszn
-Version: 1.0-3+debug
-Architecture: iphoneos-arm64
-Maintainer: cq61tech
-Installed-Size: 176
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: ./com.ilov.mubaszn_1.0-3+debug_iphoneos-arm64.deb
-Size: 4074
-MD5sum: 17406692244a849720d6c58556eeef69
-SHA1: c53d5246e207817240cf8e4ed66192591eba93e9
-SHA256: 93b570f99567345f593dfb416514ab659c12c9c186704312cc12eed73c720602
-Section: Tweaks
-Description: Myriel icin minik bir easter egg!
-Author: cq61tech
-Name: aero
+Package: com.hackyouriphone.springtomize3
+Version: 1.4.5-1
+Architecture: iphoneos-arm
+Maintainer: iLeoLion <repo@hackyouriphone.org>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap
+Conflicts: com.filippobiga.springtomize2
+Filename: ./com.hackyouriphone.springtomize3_1.4.5-1_iphoneos-arm.deb
+Size: 852538
+MD5sum: 8b9b712d5c65228142cecdce2e03bb82
+SHA1: 680b7e06c6ad458888a2ca0f283824fd37c40692
+SHA256: 5f3c8ed9dd43426b453c8318dd0a51b7c85bab13adff41b58650a3ae89761917
+Section: HYI - Tweaks
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=springtomize3
+Description: Customize your device like never before.
+Author: Filippo & Janosch <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=springtomize3
+Name: Springtomize 3 (iOS 9/8/7)
 
 Package: com.ilov.mubaszn
 Version: 1.0-3+debug
@@ -116,7 +132,7 @@ Architecture: iphoneos-arm64
 Maintainer: cq61tech
 Installed-Size: 176
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: ./packages/com.ilov.mubaszn_1.0-3+debug_iphoneos-arm64.deb
+Filename: ./com.ilov.mubaszn_1.0-3+debug_iphoneos-arm64.deb
 Size: 4074
 MD5sum: 17406692244a849720d6c58556eeef69
 SHA1: c53d5246e207817240cf8e4ed66192591eba93e9
@@ -142,4 +158,23 @@ Author: Axel4 <axel.new46@yahoo.com>
 Depiction: http://www.macciti.com/pages/classicios/index.php
 Name: Classic iOS
 Sponsor: MacCiti <http://www.macciti.com/cydia/pages/sponsor.php>
+
+Package: siriport.ru.siri.original.dev
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Dmitriy Garitskiy <http://SiriPort.Ru>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: gsc.ipad, jp.r-plus.dictator
+Filename: ./SiriPort_Original_iOS7_developer.deb
+Size: 3386946
+MD5sum: 7f208c746681c6634f272d35618e23d6
+SHA1: 530615c69db1de9952f5d2c17e4cf45977690376
+SHA256: ecd8e9ee2aac142573c29fda84c603018443285c6b6366bc96f9cdadf5b1ec06
+Section: Siri
+Homepage: http://siriport.ru/forum
+Description: Easy installer for full Native Siri for iPhone 4/3Gs, iPod 4G running iOS 7
+Tag: purpose::extension
+Author: Dmitriy Garitskiy <http://SiriPort.Ru>
+Depiction: http://repo.siriport.ru/projects/SiriPort_Original_iPhone_iPod_ios7_dev/
+Name: SiriPort iOS 7 [Dev]
 
