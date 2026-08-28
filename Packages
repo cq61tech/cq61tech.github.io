@@ -126,6 +126,25 @@ Author: Filippo & Janosch <repo@hackyouriphone.org>
 Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=springtomize3
 Name: Springtomize 3 (iOS 9/8/7)
 
+Package: com.heaveniphone.barrel
+Version: 1.6.5-1
+Architecture: iphoneos-arm
+Maintainer: Heaveniphone <heaveniphone@heaveniphone.com>
+Depends: com.heaveniphone.icon, firmware(>= 3.0), mobilesubstrate, libhide,  gsc.armv7, preferenceloader
+Conflicts: net.limneos.sbrotator (<= 2.1.5), com.heaveniphone.sbrotator (<= 2.1.5)
+Filename: ./3.deb
+Size: 757704
+MD5sum: c6940d1046c1d7d47171b0cfc8320fdb
+SHA1: c4978356a472f7281357676d4dfefbb700dfb745
+SHA256: 611b203a0b843973f34a3af30487ddf75f56818b5dd68c775977f226cbb93ccb
+Section: HiPhone-Tools
+Description: 3D effect for your homescreen icon pages
+Author: Aaron Ash (Charybdis) <support@multifl0w.com>
+Depiction: http://heaveniphone.com/cydia/info/barrel.php
+Dev: aaronash
+Name: Barrel
+Sponsor: Heaven iPhone <http://heaveniphone.com/>
+
 Package: com.ilov.mubaszn
 Version: 1.0-3+debug
 Architecture: iphoneos-arm64
@@ -159,6 +178,89 @@ Depiction: http://www.macciti.com/pages/classicios/index.php
 Name: Classic iOS
 Sponsor: MacCiti <http://www.macciti.com/cydia/pages/sponsor.php>
 
+Package: com.sinfuliphone.sinfulcrack
+Version: 8.1
+Architecture: iphoneos-arm
+Maintainer: SiNfuL iPhone <whatever@gmail.com>
+Pre-Depends: firmware (>= 4.0)
+Depends: com.sinfuliphone.repoprep, zip
+Filename: ./4.deb
+Size: 1743386
+MD5sum: 6f6ebbe92d5aa54af6be1bac32df923b
+SHA1: 1e5f7dfe7be49304c01ed4747e918e63fea6d1ca
+SHA256: 7722cae5ec5c7cef56e9a92085b3cc5b479addc960a3b5a6c98b68918afd9c6e
+Section: SiNfuL iPhone
+Homepage: http://www.sinfuliphone.com/
+Description: For all your App Store App/Game Cracking needs!
+Depiction: http://www.sinfuliphonerepo.com/depiction/sinfulcrack.html
+Icon: file:///Applications/SiNfuLCrack.app/Icon.png
+Name: SiNfuLCrack
+
+Package: com.sull.clutchrc
+Version: 2.0~RC8
+Architecture: iphoneos-arm
+Maintainer: insanelyi <noreply@insanelyi.com>
+Pre-Depends: firmware (>= 3.1)
+Depends: zip
+Conflicts: com.sull.clutch, com.sull.clutchbeta
+Replaces: com.sull.clutch, com.sull.clutchbeta
+Filename: ./8.deb
+Size: 427004
+MD5sum: b0c534ebe41a4aa22f779e3b74a37f9f
+SHA1: 50f11611e13a946a0fa3a96aec206661cd25c8af
+SHA256: 77215323b3d3253c8a88e849d43d765eee4b863ae097b7d92e7916458ab11b5a
+Section: iSystem
+Priority: extra
+Description: Clutch is an extremely fast cracking utility.
+Author: KJCracks
+Depiction: http://repo.insanelyi.com/depiction.php?package=clutchrc
+Name: Clutch 2.0 RC
+Sponsor: insanelyi <http://insanelyi.com>
+
+Package: com.xsellize.springtomize2
+Version: 1.3-2
+Architecture: iphoneos-arm
+Maintainer: repo@xsellize.com
+Installed-Size: 761
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader
+Conflicts: com.filippobiga.springtomize
+Filename: ./2.deb
+Size: 327670
+MD5sum: f1e593456e6ff8ae0dfd2184f354488e
+SHA1: c6e54f58ba7e6b55396c34a7d19a4cd0601290e2
+SHA256: 222db47ad372247ec664f6749b37bed4fa574f97083d7ac51e068ee46540caa8
+Section: X Modz
+Homepage: http://apt.xsellize.com/depic/springtomize2
+Description: SpringBoard, the way you want it. All over again.
+Author: repo@xsellize.com
+Depiction: http://apt.xsellize.com/depic/springtomize2
+Name: Springtomize 2 Thai - iOS 5+
+Sponsor: http://xsellize.com
+
+Package: org.thebigboss.animatelockscreen
+Version: 1.0.1-3
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 532
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader, org.chronic-dev.animate
+Conflicts: com.mpow.charbg
+Filename: ./1.deb
+Size: 474966
+MD5sum: 7cee1bd5dcea5d577e3895e9519414ff
+SHA1: 9080edde8d4ba4b6b20a1dd983656fe464d48e50
+SHA256: 25b4e5aba99a6c8e986704f6c209ad24d1dbad01b7ae9f63ed9d7ab47c664428
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=animatelockscreenDp
+Description: enhance the lockscreen with animations
+Tag: purpose::extension, cydia::commercial
+Author: MPow <alexx91@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=animatelockscreenDp
+Dev: alexx91
+Icon: file:///Library/PreferenceBundles/AnimateLockscreen.bundle/animatelockscreen@2x.png
+Name: AnimateLockscreen
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: siriport.ru.siri.original.dev
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -177,4 +279,21 @@ Tag: purpose::extension
 Author: Dmitriy Garitskiy <http://SiriPort.Ru>
 Depiction: http://repo.siriport.ru/projects/SiriPort_Original_iPhone_iPod_ios7_dev/
 Name: SiriPort iOS 7 [Dev]
+
+Package: ultrasn0w
+Version: 1.2.7
+Architecture: iphoneos-arm
+Maintainer: YaYPIXXO <viggo@lekdorf.com>
+Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.3209-1), firmware (<< 7.0)
+Conflicts: blacksn0w, yellowsn0w, gsc.wildcat
+Filename: ./9.deb
+Size: 11906
+MD5sum: 004279a7e60a35e8051e1f43b618a32d
+SHA1: 58559145af1791bb2150e9ca22eedf3f804b5c81
+SHA256: bf30e6d7e0beebe88fe1b376e1edb3e2007d8c4af6b98b9805b532eaaf412dd8
+Description: iPhone Dev Team's iPhone 4, 3G and 3GS software unlock, now with added PwnApple.
+Author: Dev Team <blog@iphone-dev.org>
+Depiction: http://yaypixxo.com/depictions/?p=ultrasn0w
+Name: ultrasn0w
+Sections: Ultilities
 
