@@ -12,6 +12,20 @@ Description: Liquid Glass Clear Icons now for IOS 8! (TRASH readability lol, any
 Author: ThePeaShooter
 Name: LiquidASS
 
+Package: com.ThePeaShooter.locktime8
+Version: v1.0.0
+Architecture: iphoneos-arm
+Maintainer: RetroWeirdos
+Filename: ./com.ThePeaShooter.locktime8_v1.0.0_iphoneos-arm.2.deb
+Size: 20529000
+MD5sum: b01ed4cf2a7e2bc5658dcefd17189956
+SHA1: c6a816b99207a4fcfa87ff29ba9e9f1ea1c4ad56
+SHA256: 59ce6227aad6d93ce0a78f92bbdae7f86ae24abd32201587d77191df8ec52fcb
+Section: Peatweaks
+Description: Locktime26 For iOS 8, also for any devices compatible with grooovylock although iOS 7 isnt tested yet
+Author: ThePeaShooter
+Name: Locktime26 for IOS 8
+
 Package: com.cq61tech.ihateassistivetouch
 Version: 0.0.1-2+debug
 Architecture: iphoneos-arm64
@@ -107,6 +121,42 @@ Section: Tweaks
 Description: Assistive Touch'i sonsuza dek yok eden o efsanevi tweak!
 Author: CQ61TECH
 Name: IHateAT
+
+Package: com.eldwin.iwidgets
+Version: 1.3.2
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: mobilesubstrate, firmware (>= 4.2.1)
+Conflicts: com.chpwn.infiniboard
+Filename: ./com.eldwin.iwidgets_1.3.2_iphoneos-arm.deb
+Size: 332298
+MD5sum: df1c1a8bb2ce16b2116887a8f7e36013
+SHA1: 9d0ecaf2771d3d1516e5db698c5026cc83ff2e08
+SHA256: c383674da009bd76d3f4188cf04786a435ac88614400105cb7dc1eb22d46ccb3
+Section: Tweaks
+Priority: extra
+Homepage: http://modmyi.com/info/iwidgets.php
+Description: HTML Widgets on SpringBoard!
+Author: eldwin <eldwin_@hotmail.com>
+Depiction: http://modmyi.com/info/iwidgets.d.php
+Name: iWidgets
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.eswick.harbor
+Version: 1.1.2-6+debug
+Architecture: iphoneos-arm
+Maintainer: names
+Installed-Size: 836
+Depends: mobilesubstrate
+Filename: ./com.eswick.harbor_1.1.2-6+debug_iphoneos-arm.deb
+Size: 93444
+MD5sum: 7ef20e5f550825e6c13236a2fccfbd18
+SHA1: 390ec9e590b6f2a4fe866392d4f3450b2f394549
+SHA256: 267ee5ecb416433db102a36359f2488696ebae6c71445f5d5441ef781e241d8e
+Section: Tweaks
+Description: iPadOS-like dock using a modified Harbor base.
+Author: Evan Swick
+Name: iPadOS Dock - Harbor
 
 Package: com.hackyouriphone.springtomize3
 Version: 1.4.5-1
