@@ -123,16 +123,16 @@ Author: CQ61TECH
 Name: IHateAT
 
 Package: com.cq61tech.selectra1n
-Version: 0.0.1-6+debug
+Version: 0.0.1-7+debug
 Architecture: iphoneos-arm
 Maintainer: cq61tech
 Installed-Size: 116
 Depends: firmware (>= 7.0), com.tigisoftware.filza
-Filename: ./com.cq61tech.selectra1n_0.0.1-6+debug_iphoneos-arm.deb
-Size: 26324
-MD5sum: cd2588685083f38a8ad79e11b455ebfd
-SHA1: ff2e17e2f8595f4b8874b077484f81afb1f02935
-SHA256: 91e786646e3779595a88bb05e4a1e89fdb980eae1baf785ef4b0289c6c388413
+Filename: ./com.cq61tech.selectra1n_0.0.1-7+debug_iphoneos-arm.deb
+Size: 26388
+MD5sum: 479cdb7001c1549e5257b12c2e626ec0
+SHA1: 09ce56815de279bd48326344054de252b1b07363
+SHA256: 6e73d37f20b18a53aa0e9db70f913e2ef79767daf82bcd2add7ad564c7329c6f
 Section: Applications
 Description: An application for installing .deb files easily
 Author: cq61tech
