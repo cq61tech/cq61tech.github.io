@@ -138,6 +138,22 @@ Description: An application for installing .deb files easily
 Author: cq61tech
 Name: selectra1n
 
+Package: com.cq61tech.selectra1n
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: cq61tech
+Installed-Size: 92
+Depends: firmware (>= 7.0)
+Filename: ./com.cq61tech.selectra1n_0.0.1-2+debug_iphoneos-arm.deb
+Size: 20734
+MD5sum: 3607ca3415afc9bcae75f2c0316a1a06
+SHA1: 588f5a77ed13024896591fecb6229491a7a0316b
+SHA256: ccde6169de5c1de9676b3ca4a312540fcec8e6916cc6dd3aa4d67f5307afd399
+Section: Applications
+Description: An application for installing .deb files easily
+Author: cq61tech
+Name: selectra1n
+
 Package: com.eldwin.iwidgets
 Version: 1.3.2
 Architecture: iphoneos-arm
