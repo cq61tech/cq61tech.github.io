@@ -2,7 +2,7 @@ Package: com.ThePeaShooter.LiquidASS
 Version: v1.0.0
 Architecture: iphoneos-arm
 Maintainer: RetroWeirdos
-Filename: ./com.ThePeaShooter.LiquidASS_v1.0.0_iphoneos-arm.1.deb
+Filename: com.ThePeaShooter.LiquidASS_v1.0.0_iphoneos-arm.1.deb
 Size: 7341928
 MD5sum: 25c5ab51e63e5ac8f02bfe9c34274f2f
 SHA1: 9b4839baf4c7aac702ce3d5206ce72a1b820d93d
@@ -16,7 +16,7 @@ Package: com.ThePeaShooter.locktime8
 Version: v1.0.0
 Architecture: iphoneos-arm
 Maintainer: RetroWeirdos
-Filename: ./com.ThePeaShooter.locktime8_v1.0.0_iphoneos-arm.2.deb
+Filename: com.ThePeaShooter.locktime8_v1.0.0_iphoneos-arm.2.deb
 Size: 20529000
 MD5sum: b01ed4cf2a7e2bc5658dcefd17189956
 SHA1: c6a816b99207a4fcfa87ff29ba9e9f1ea1c4ad56
@@ -32,7 +32,7 @@ Architecture: iphoneos-arm64
 Maintainer: CQ61TECH
 Installed-Size: 56
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
-Filename: ./com.cq61tech.ihateassistivetouch_0.0.1-2+debug_iphoneos-arm64.deb
+Filename: com.cq61tech.ihateassistivetouch_0.0.1-2+debug_iphoneos-arm64.deb
 Size: 2964
 MD5sum: 4ee674706ad20975964dd11687d2e4c2
 SHA1: 0a4e8439263900dd0f9e5e129e7c1f074157117b
@@ -48,7 +48,7 @@ Architecture: iphoneos-arm64
 Maintainer: CQ61TECH
 Installed-Size: 56
 Depends: mobilesubstrate
-Filename: ./com.cq61tech.ihateassistivetouch_0.0.1-3+debug_iphoneos-arm64.deb
+Filename: com.cq61tech.ihateassistivetouch_0.0.1-3+debug_iphoneos-arm64.deb
 Size: 2686
 MD5sum: 79dc6b328121473b6aa491c0ee1376a8
 SHA1: 9bbf312a22d7f5acd226a077913f34cc708b937b
@@ -64,7 +64,7 @@ Architecture: iphoneos-arm64
 Maintainer: CQ61TECH
 Installed-Size: 56
 Depends: mobilesubstrate
-Filename: ./com.cq61tech.ihateassistivetouch_0.0.1-4+debug_iphoneos-arm64.deb
+Filename: com.cq61tech.ihateassistivetouch_0.0.1-4+debug_iphoneos-arm64.deb
 Size: 2684
 MD5sum: 87c4ab3f570bebb0f5a7f555452a2df4
 SHA1: eb190cf704701841582b73e1d8f50c33a3956abb
@@ -80,7 +80,7 @@ Architecture: iphoneos-arm64
 Maintainer: CQ61TECH
 Installed-Size: 56
 Depends: mobilesubstrate
-Filename: ./com.cq61tech.ihateassistivetouch_0.0.1-5+debug_iphoneos-arm64.deb
+Filename: com.cq61tech.ihateassistivetouch_0.0.1-5+debug_iphoneos-arm64.deb
 Size: 2742
 MD5sum: 102d7864df7342bb7ce346cb6173fd6c
 SHA1: 0c999536882b8e09ce5da948f99ddd7de46ccc3a
@@ -96,7 +96,7 @@ Architecture: iphoneos-arm64
 Maintainer: CQ61TECH
 Installed-Size: 56
 Depends: mobilesubstrate
-Filename: ./com.cq61tech.ihateassistivetouch_0.0.1-6+debug_iphoneos-arm64.deb
+Filename: com.cq61tech.ihateassistivetouch_0.0.1-6+debug_iphoneos-arm64.deb
 Size: 3064
 MD5sum: 9743d7478cf1085fd68e16e94619c92f
 SHA1: 42460c50da2c6562f32169cdf1f409d1df9002b1
@@ -112,7 +112,7 @@ Architecture: iphoneos-arm64
 Maintainer: CQ61TECH
 Installed-Size: 56
 Depends: mobilesubstrate
-Filename: ./com.cq61tech.ihateassistivetouch_0.0.1-7+debug_iphoneos-arm64.deb
+Filename: com.cq61tech.ihateassistivetouch_0.0.1-7+debug_iphoneos-arm64.deb
 Size: 3606
 MD5sum: c7d11c1cf830c5f14ed6a127f922ca48
 SHA1: 2a57a0f97e722afdf46b1607598ded996622f9d4
@@ -128,7 +128,7 @@ Architecture: iphoneos-arm
 Maintainer: cq61tech
 Installed-Size: 1256
 Depends: firmware (>= 7.0), com.tigisoftware.filza
-Filename: ./com.cq61tech.selectra1n_0.0.1-1+debug_iphoneos-arm.deb
+Filename: com.cq61tech.selectra1n_0.0.1-1+debug_iphoneos-arm.deb
 Size: 1195756
 MD5sum: 1c8f4fdbb2e8ab6eade28832afefcd52
 SHA1: b67cdc9dff13477b2f448f7c9b85e0639fb9095a
@@ -144,7 +144,7 @@ Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: mobilesubstrate, firmware (>= 4.2.1)
 Conflicts: com.chpwn.infiniboard
-Filename: ./com.eldwin.iwidgets_1.3.2_iphoneos-arm.deb
+Filename: com.eldwin.iwidgets_1.3.2_iphoneos-arm.deb
 Size: 332298
 MD5sum: df1c1a8bb2ce16b2116887a8f7e36013
 SHA1: 9d0ecaf2771d3d1516e5db698c5026cc83ff2e08
@@ -164,7 +164,7 @@ Architecture: iphoneos-arm
 Maintainer: names
 Installed-Size: 836
 Depends: mobilesubstrate
-Filename: ./com.eswick.harbor_1.1.2-6+debug_iphoneos-arm.deb
+Filename: com.eswick.harbor_1.1.2-6+debug_iphoneos-arm.deb
 Size: 93444
 MD5sum: 7ef20e5f550825e6c13236a2fccfbd18
 SHA1: 390ec9e590b6f2a4fe866392d4f3450b2f394549
@@ -180,7 +180,7 @@ Architecture: iphoneos-arm
 Maintainer: iLeoLion <repo@hackyouriphone.org>
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap
 Conflicts: com.filippobiga.springtomize2
-Filename: ./com.hackyouriphone.springtomize3_1.4.5-1_iphoneos-arm.deb
+Filename: com.hackyouriphone.springtomize3_1.4.5-1_iphoneos-arm.deb
 Size: 852538
 MD5sum: 8b9b712d5c65228142cecdce2e03bb82
 SHA1: 680b7e06c6ad458888a2ca0f283824fd37c40692
@@ -198,7 +198,7 @@ Architecture: iphoneos-arm
 Maintainer: Heaveniphone <heaveniphone@heaveniphone.com>
 Depends: com.heaveniphone.icon, firmware(>= 3.0), mobilesubstrate, libhide,  gsc.armv7, preferenceloader
 Conflicts: net.limneos.sbrotator (<= 2.1.5), com.heaveniphone.sbrotator (<= 2.1.5)
-Filename: ./3.deb
+Filename: 3.deb
 Size: 757704
 MD5sum: c6940d1046c1d7d47171b0cfc8320fdb
 SHA1: c4978356a472f7281357676d4dfefbb700dfb745
@@ -217,7 +217,7 @@ Architecture: iphoneos-arm64
 Maintainer: cq61tech
 Installed-Size: 176
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: ./com.ilov.mubaszn_1.0-3+debug_iphoneos-arm64.deb
+Filename: com.ilov.mubaszn_1.0-3+debug_iphoneos-arm64.deb
 Size: 4074
 MD5sum: 17406692244a849720d6c58556eeef69
 SHA1: c53d5246e207817240cf8e4ed66192591eba93e9
@@ -232,7 +232,7 @@ Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: iC <apt@macciti.com>
 Depends: com.anemonetheming.anemone
-Filename: ./com.macciti.classicios_1.2_iphoneos-arm.deb
+Filename: com.macciti.classicios_1.2_iphoneos-arm.deb
 Size: 8416916
 MD5sum: 96388662f5a9a7312f5639bb0a36cf10
 SHA1: b6c63aef2032340e8d80db7b8acaa5b39e7108ba
@@ -250,7 +250,7 @@ Architecture: iphoneos-arm
 Maintainer: SiNfuL iPhone <whatever@gmail.com>
 Pre-Depends: firmware (>= 4.0)
 Depends: com.sinfuliphone.repoprep, zip
-Filename: ./4.deb
+Filename: 4.deb
 Size: 1743386
 MD5sum: 6f6ebbe92d5aa54af6be1bac32df923b
 SHA1: 1e5f7dfe7be49304c01ed4747e918e63fea6d1ca
@@ -270,7 +270,7 @@ Pre-Depends: firmware (>= 3.1)
 Depends: zip
 Conflicts: com.sull.clutch, com.sull.clutchbeta
 Replaces: com.sull.clutch, com.sull.clutchbeta
-Filename: ./8.deb
+Filename: 8.deb
 Size: 427004
 MD5sum: b0c534ebe41a4aa22f779e3b74a37f9f
 SHA1: 50f11611e13a946a0fa3a96aec206661cd25c8af
@@ -290,7 +290,7 @@ Maintainer: repo@xsellize.com
 Installed-Size: 761
 Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader
 Conflicts: com.filippobiga.springtomize
-Filename: ./2.deb
+Filename: 2.deb
 Size: 327670
 MD5sum: f1e593456e6ff8ae0dfd2184f354488e
 SHA1: c6e54f58ba7e6b55396c34a7d19a4cd0601290e2
@@ -309,7 +309,7 @@ Architecture: iphoneos-arm
 Maintainer: Dmitriy Garitskiy <http://SiriPort.Ru>
 Depends: mobilesubstrate, preferenceloader
 Conflicts: gsc.ipad, jp.r-plus.dictator
-Filename: ./SiriPort_Original_iOS7_developer.deb
+Filename: SiriPort_Original_iOS7_developer.deb
 Size: 3386946
 MD5sum: 7f208c746681c6634f272d35618e23d6
 SHA1: 530615c69db1de9952f5d2c17e4cf45977690376
@@ -328,7 +328,7 @@ Architecture: iphoneos-arm
 Maintainer: YaYPIXXO <viggo@lekdorf.com>
 Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.3209-1), firmware (<< 7.0)
 Conflicts: blacksn0w, yellowsn0w, gsc.wildcat
-Filename: ./9.deb
+Filename: 9.deb
 Size: 11906
 MD5sum: 004279a7e60a35e8051e1f43b618a32d
 SHA1: 58559145af1791bb2150e9ca22eedf3f804b5c81

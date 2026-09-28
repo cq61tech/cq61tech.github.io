@@ -5,4 +5,14 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: x
+Description: cq61tech Cydia Repo
+MD5Sum:
+ 40f49f96a57c921001b703cd8848f60f            12231 Packages
+ 5ecfc34ed701a422711134faa95acbd1             4515 Packages.gz
+ fdcd536f49e2470d16ebcf2eb52c41b8             4488 Packages.bz2
+ 0496c779bad3bae39878798d3c4c377f             4348 Packages.xz
+SHA256:
+ da41276a35cbe027c853259e6caefd230633d762fffe8ff31ae5f7fccbfcad30            12231 Packages
+ 829029ef16a3148af75f4d7a632fa35e5ebdf9ed289fde42bc65e620e75dd4c3             4515 Packages.gz
+ 5216116d076a846f84343e0e56650535151cd851e13be0ceccdea457dfcbd1bd             4488 Packages.bz2
+ 2a4a50a8164a5282646203c2108cb7d1d13d7f11458c6e377ad2343f72b67938             4348 Packages.xz
