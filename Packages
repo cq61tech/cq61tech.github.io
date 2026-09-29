@@ -1,0 +1,16 @@
+Package: com.cq61tech.selectra1n
+Version: 0.9-1+debug
+Architecture: iphoneos-arm
+Maintainer: cq61tech
+Installed-Size: 1256
+Depends: firmware (>= 7.0), com.tigisoftware.filza
+Filename: ./debs/com.cq61tech.selectra1n_0.9-1+debug_iphoneos-arm.deb
+Size: 1195764
+MD5sum: a0a1feba7773fa61e6e214cf5b2ea4c1
+SHA1: caaa5564ce1e4402dd11a9ed42cda0fb13403599
+SHA256: d301adb9b74371db336ed39b0a5002d2dea0e97ae70d3aa9eeb2778a98a8b7f0
+Section: Applications
+Description: An application for installing .deb files easily
+Author: cq61tech
+Name: selectra1n
+
