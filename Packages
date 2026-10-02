@@ -30,3 +30,19 @@ Description: An application for installing .deb files easily
 Author: cq61tech
 Name: selectra1n
 
+Package: com.cq61tech.transpardock
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: cq61tech
+Installed-Size: 408
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0), firmware (<< 10.0)
+Filename: ./debs/com.cq61tech.transpardock_0.0.1_iphoneos-arm.deb
+Size: 9286
+MD5sum: 345b0ebbb2efa17c1d3918035316f7d2
+SHA1: 0f832fd964fa7a94b77993d1b7bd290108688d2b
+SHA256: e5819383838579c2bf93df0dc4856a6ade4b46576c6da238b33297953cc62501
+Section: Tweaks
+Description: Makes the dock background fully transparent on iOS 7-9
+Author: cq61tech
+Name: TransparDock
+
