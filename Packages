@@ -250,6 +250,22 @@ Description: Makes the dock background fully transparent on iOS 7-9
 Author: cq61tech
 Name: TransparDock
 
+Package: com.cq61tech.transpardock
+Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: cq61tech
+Installed-Size: 412
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0), firmware (<< 10.0)
+Filename: ./com.cq61tech.transpardock_0.0.5_iphoneos-arm.deb
+Size: 12586
+MD5sum: 7ecd8d6ac8689d712be3f42afc1dfa44
+SHA1: eae6d673dc087d41065161d2130a902aa56ee1c6
+SHA256: 32fa06f4500aa861be6f0a4dd40273cbad0ca8aa108f8e0bb413487646417f0c
+Section: Tweaks
+Description: Makes the dock background fully transparent on iOS 7-9
+Author: cq61tech
+Name: TransparDock
+
 Package: com.eldwin.iwidgets
 Version: 1.3.2
 Architecture: iphoneos-arm
